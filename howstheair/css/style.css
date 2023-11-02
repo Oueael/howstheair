@@ -1,0 +1,32 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#aqiChecker {
+  margin: 20px;
+}
+
+#aqiInfo {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  display: inline-block;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
